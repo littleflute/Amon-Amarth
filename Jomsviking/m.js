@@ -1,0 +1,13 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 First Kill.mp3";		
+f[2]	= "02 Wanderer.mp3";		
+f[3]	= "03 On a Sea of Blood.mp3";		
+f[4]	= "04 One Against All.mp3";		
+f[5]	= "05 Raise Your Horns.mp3";		
+f[6]	= "06 The Way of Vikings.mp3";		
+f[7]	= "07 At Dawn's First Light.mp3";		
+f[8]	= "08 One Thousand Burning Arrows.mp3";		
+f[9]	= "09 Vengeance is My Name.mp3";		
+f[10]	= "10 A Dream That Cannot Be.mp3";		
+f[11]	= "11 Back on Northern Shores.mp3";		
