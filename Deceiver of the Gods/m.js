@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Deceiver of the Gods.mp3";		
+f[2]	= "02 As Loke Falls.mp3";		
+f[3]	= "03 Father of the Wolf.mp3";		
+f[4]	= "04 Shape Shifter.mp3";		
+f[5]	= "05 Under Siege.mp3";		
+f[6]	= "06 Blood Eagle.mp3";		
+f[7]	= "07 We Shall Destroy.mp3";		
+f[8]	= "08 Hel.mp3";		
+f[9]	= "09 Coming of the Tide.mp3";		
+f[10]	= "10 Warriors of the North.mp3";		
